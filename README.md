@@ -1,2 +1,3 @@
 # vimrc
-My personal vimrc
+
+My personal vimrc.
